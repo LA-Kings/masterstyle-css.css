@@ -27,7 +27,7 @@ html,body{width: 100%; padding: 0px; margin: 0px;}
 	width: 100%;
 	float: left;	
 	background-size: cover;
-	position: relative;
+	position: unset;
 	padding: 20px 0px 20px 0px;
 	background-position: center;
 
